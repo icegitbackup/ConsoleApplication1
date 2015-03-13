@@ -12,6 +12,8 @@ namespace ConsoleApplication1
         {
             // Test string added
             // checking the functioanlity of git
+
+            int temp = 1;
         }
     }
 }
