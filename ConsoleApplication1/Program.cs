@@ -14,6 +14,9 @@ namespace ConsoleApplication1
             // checking the functioanlity of git
 
             int temp = 1;
+			
+			// Testing from another branch
+			temp+=1;
         }
     }
 }
